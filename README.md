@@ -4,7 +4,7 @@
 
 ## Description
 
-This a portfolio application created using React. It consists of three pages - about, pportfolio, and contact. 
+This a portfolio application created using React. It consists of three pages - about, portfolio, and contact. 
 
 Some, but not all, features used include:
 
