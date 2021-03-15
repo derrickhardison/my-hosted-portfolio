@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <main className="container">
+      <main className="container-lg">
         <div className="row mt-5">
           <div className="col-12 col-md-10 col-lg-8 mt-5">
             <div className="jumbotron">

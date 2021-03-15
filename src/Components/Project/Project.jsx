@@ -2,7 +2,7 @@ import React from "react";
 
 const Project = () => {
   return (
-    <main className="container">
+    <main className="container-fluid-xl">
       <div className="row">
         <div className="col-12 mt-2">
           <div className="jumbotron">
