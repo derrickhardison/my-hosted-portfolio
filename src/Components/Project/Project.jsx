@@ -119,8 +119,9 @@ const Project = () => {
                     <h5 className="card-title">Team Generator</h5>
 
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Team generator builds a Node CLI that takes in information
+                      about employees and generates an HTML webpage that
+                      displays summaries for each person.
                     </p>
                     <a
                       href="https://github.com/derrickhardison/team-generator"
