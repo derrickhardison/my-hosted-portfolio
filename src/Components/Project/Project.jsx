@@ -13,7 +13,7 @@ const Project = () => {
               </div>
             </div>
             <div className="row">
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Digital Coffee</h5>
@@ -43,7 +43,7 @@ const Project = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Fitness Tracker</h5>
@@ -76,9 +76,8 @@ const Project = () => {
                     </a>
                   </div>
                 </div>
-                <br />
               </div>
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Promethium</h5>
@@ -109,11 +108,10 @@ const Project = () => {
                     </a>
                   </div>
                 </div>
-                <br />
               </div>
             </div>
             <div className="row">
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Team Generator</h5>
@@ -138,7 +136,7 @@ const Project = () => {
                   </div>
                 </div>
               </div>{" "}
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Budget Tracker</h5>
@@ -164,7 +162,7 @@ const Project = () => {
                   </div>
                 </div>
               </div>{" "}
-              <div className="col-4">
+              <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Workday Scheduler</h5>

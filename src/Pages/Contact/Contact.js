@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <main className="container-lg">
       <div className="row">
-        <div className="col-8 mt-5">
+        <div className="col-lg-8 mt-5">
           <div className="jumbotron">
             <div className="row">
               <div className="col-12">
