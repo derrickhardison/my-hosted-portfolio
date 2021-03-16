@@ -12,31 +12,34 @@ const Contact = () => {
                 <hr className="my-4" />
               </div>
             </div>
-            <div class="list-group">
+            <div className="list-group">
               <a
                 href="https://www.linkedin.com/in/derrickhardison"
                 target="_blank"
-                class="list-group-item list-group-item-action"
+                rel="noreferrer"
+                className="list-group-item list-group-item-action"
               >
                 <h2 className="text-muted text-center">LinkedIn</h2>
               </a>
               <a
                 href="https://github.com/derrickhardison"
-                class="list-group-item list-group-item-action"
+                className="list-group-item list-group-item-action"
                 target="_blank"
+                rel="noreferrer"
               >
                 <h2 className="text-muted text-center">GitHub</h2>
               </a>
               <a
                 href="mailto:derricklhardison@gmail.com"
-                class="list-group-item list-group-item-action"
+                className="list-group-item list-group-item-action"
               >
                 <h2 className="text-muted text-center">Email</h2>
               </a>
               <a
                 href="https://docs.google.com/document/d/1Z-iW1wj0CQVmpOQENWB4a-8dRGnL6S0BGtoxGQQmFuE/edit?usp=sharing"
                 target="_blank"
-                class="list-group-item list-group-item-action"
+                rel="noreferrer"
+                className="list-group-item list-group-item-action"
               >
                 <h2 className="text-muted text-center">Resume</h2>
               </a>
