@@ -36,7 +36,7 @@ const Contact = () => {
                 <h2 className="text-muted text-center">Email</h2>
               </a>
               <a
-                href="https://docs.google.com/document/d/1Z-iW1wj0CQVmpOQENWB4a-8dRGnL6S0BGtoxGQQmFuE/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1VeNHoYFdzauN14L6bXd29eYI4atNZaalhci-yMgIFtQ/edit?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
                 className="list-group-item list-group-item-action"
