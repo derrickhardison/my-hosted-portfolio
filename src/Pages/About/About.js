@@ -16,18 +16,22 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <img
-                    src="https://media-exp1.licdn.com/dms/image/C5603AQHDpEYzxIsWzQ/profile-displayphoto-shrink_200_200/0/1523511163303?e=1619654400&v=beta&t=qQqdXFESgIG6IVfLs4W8LB4x1OUvrmio_1XVxKWnpJk"
+                    src="https://media-exp1.licdn.com/dms/image/C4E03AQHrNTafUDORlQ/profile-displayphoto-shrink_200_200/0/1618941555632?e=1624492800&v=beta&t=rJyWuChxU8_OArLIQoRxJ9o5781mWluXPJFAB4TmvOA"
                     className="thumbnail float-left pr-2 pb-2"
                     alt="me"
                   />
                   <p>
-                    Hi! I'm Derrick. I'm a full-stack web developer based in
-                    Atlanta, Georgia that specializes in building responsive,
-                    detailed, user-friendly, web applications. I have experience
-                    with MongoDB/MySQL, Express, React, and Node.js (MERN).
+                    Recent graduate of the Full Stack Web Development program at
+                    Georgia Institute of Technology offering 8+ years of
+                    experience in networking infrastructure and 1 year in full
+                    stack web development, owning progressive web-based projects
+                    from concept and design through testing, implementation and
+                    updates. Quick learner with a passion for producing
+                    accessible, responsive, user-friendly code. Successful at
+                    achieving browser and device compatibility objectives while
+                    satisfying requirements and producing robust, high-quality
+                    designs.
                   </p>
-
-                  <p>Feel free to have a look around!</p>
                 </div>
               </div>
             </div>
