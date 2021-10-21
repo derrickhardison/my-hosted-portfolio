@@ -7,7 +7,7 @@ const Project = () => {
         <div className="col-12 mt-2">
           <div className="jumbotron">
             <div className="row">
-              <div className="col-12">
+              <div class="col-12">
                 <h1 className="display-4">Check out some of my work!</h1>
                 <hr className="my-4" />
               </div>
